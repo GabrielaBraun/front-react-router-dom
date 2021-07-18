@@ -8,7 +8,7 @@ export default function Perfil() {
         <div>
              <h1>Este é o seu perfil</h1>
             <div className="profile">
-            <Link to="/home">Home</Link>
+            <Link to="/">Home</Link>
             <Link to="/login">Login</Link>
             </div>
         </div>
